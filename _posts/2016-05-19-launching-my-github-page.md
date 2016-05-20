@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vanchinathan - Engineer-Studenet-Bad Wood Worker-First Post"
+title: "Vanchinathan - Engineer-Student-Bad Wood Worker-First Post"
 date: 2016-05-19
 ---
 
